@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello ny name is keshavardhan vengala'
+                echo 'Hi everthing is going great'
             }
         }
     }
