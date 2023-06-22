@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('Mobial Number') {
             steps {
                 echo 'Hello 9885779220'
             }
