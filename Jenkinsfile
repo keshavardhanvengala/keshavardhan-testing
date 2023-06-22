@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Mobial Number') {
+        stage('hello every one in this world') {
             steps {
-                echo 'Hello 9885779220'
+                echo 'Hello world'
             }
         }
     }
