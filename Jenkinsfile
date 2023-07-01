@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Lenovo T480'
+                echo 'Lenovo T48'
             }
         }
     }
