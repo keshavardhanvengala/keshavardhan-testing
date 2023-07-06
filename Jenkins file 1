@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('DevOps Engineer') {
             steps {
-                echo 'Keshavardhan vengala Git, Maven, Docker, Jenkins, Nexus, Ansibil, Terraform'
+                echo 'Keshavardhan vengala'
             }
         }
     }
