@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Lenovo T48'
+                echo 'keshavardhan'
             }
         }
     }
