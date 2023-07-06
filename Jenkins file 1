@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('DevOps Engineer') {
+        stage('DevOps') {
             steps {
-                echo 'Keshavardhan vengala'
+                echo 'Keshavardhan'
             }
         }
     }
