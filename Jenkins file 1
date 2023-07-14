@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('DevOps') {
             steps {
-                echo 'Keshavardhan vengala'
+                echo 'Keshavardhan'
             }
         }
     }
